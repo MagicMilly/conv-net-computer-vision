@@ -9,3 +9,21 @@ The images used as [data](https://www.kaggle.com/paultimothymooney/kermany2018) 
 * **Drusen** - fatty deposits under the retina - some types of drusen may affect vision and increase the risk for macular degeneration, while other types may never cause any noticeable problems for the patient.
 * **Normal** - no abnormalities present
 
+## Methodology
+I. Load & Inspect Original Image Data </br>
+II. Preprocess Data </br>
+III. Modeling - an Iterative Process </br>
+IV. Model Evaluation </br>
+V. Conclusion & Recommendations </br>
+
+## I. Load & Inspect Original Image Data
+The original dataset consisted of 83,606 500x500 retinal scans belonging to four different classes. The images below represent an example of an original image from each class.
+![four retinal scan images representing the different classes of data](/readme_images/fourclasses.png)
+
+## II. Preprocess Data
+Due to computing and time constraints, the images were resized to 50x50 pixels and converted to greyscale for use in training a neural network.
+
+## III. Modeling - an Iterative Process
+## IV. Model Evaluation
+## V. Conclusion & Recommendations
+
