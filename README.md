@@ -14,7 +14,9 @@ I. Load & Inspect Original Image Data </br>
 II. Preprocess Data </br>
 III. Modeling - an Iterative Process </br>
 IV. Model Evaluation </br>
-V. Conclusion & Recommendations </br>
+V. Conclusion </br>
+VI. Recommendations to Improve Model
+VII. Recommendations to Improve Diagnosis & Patient Care with Model 
 
 ## I. Load & Inspect Original Image Data
 The original dataset consisted of 83,606 500x500 retinal scans belonging to four different classes. The images below represent an example of an original image from each class.
